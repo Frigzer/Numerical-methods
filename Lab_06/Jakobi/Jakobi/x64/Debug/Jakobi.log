@@ -1,0 +1,3 @@
+﻿  jakobi.cpp
+C:\Users\borek\source\repos\Metody Numeryczne\Lab_06\Jakobi\Jakobi\jakobi.cpp(64,7): warning C4804: ">=": niebezpieczne użycie typu "bool" w operacji
+  Jakobi.vcxproj -> C:\Users\borek\source\repos\Metody Numeryczne\Lab_06\Jakobi\x64\Debug\Jakobi.exe

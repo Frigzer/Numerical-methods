@@ -1,0 +1,3 @@
+﻿  epsilon.cpp
+C:\Users\borek\source\repos\Metody Numeryczne\Lab_06\Epsilon\Epsilon\epsilon.cpp(66,13): warning C4804: ">=": niebezpieczne użycie typu "bool" w operacji
+  Epsilon.vcxproj -> C:\Users\borek\source\repos\Metody Numeryczne\Lab_06\Epsilon\x64\Debug\Epsilon.exe
